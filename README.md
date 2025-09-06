@@ -1,5 +1,5 @@
 # Fortech
-Trabalho da disciplina Projeto Integrado I - 3º Semestre do curso SMD - UFC
+Trabalho da disciplina Projeto Integrado I - Curso SMD - UFC
 
 <b><label>Empresa:</label></b> Fortech <br>
 
@@ -11,7 +11,7 @@ Trabalho da disciplina Projeto Integrado I - 3º Semestre do curso SMD - UFC
   <li>Pedro Henrique - Designer</li>
   <li>Eric Victor - Programador</li>
   <li>Felipe Rabelo - Designer</li>
-  <li>Luiz Santos - Documentador</li>
+  <li>Luiz Santos - UX Designer</li>
 </ul>
 
 <b><label>Cliente:</label></b>
